@@ -1,2 +1,2 @@
 ### Coin_Scraper
-![Coin Logo](screenshots/2.png)
+![Coin Logo](screenshots/7.png)
