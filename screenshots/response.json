@@ -1,0 +1,47 @@
+{
+  "contracts": {
+    "address": "HLptm5...2G7rf9",
+    "name": "Solana"
+  },
+  "extract_data": {
+    "Circulating": "373",
+    "DUKO": "0.92",
+    "DUKOMax": "9,999,609,598",
+    "DUKOTotal": "17.50",
+    "Volume (24h)": "24",
+    "Volume/Market": "25.95",
+    "cap": "660",
+    "cap (24h)": "$8,157,082",
+    "statisticsMarket": "$46,612,767",
+    "supply": "$48,231,747"
+  },
+  "market_cap": "$46,612,767",
+  "official_links": {
+    "link": "https://dukocoin.com/",
+    "name": "Website"
+  },
+  "price": "$0.004823",
+  "price_change": "$0.004823",
+  "socials": [
+    {
+      "name": "telegram",
+      "url": "https://coinmarketcap.com/chatbot/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/dukocoin"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/+jlScZmFrQ8g2MDg8"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/CoinMarketCap"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/CoinMarketCapAnnouncements"
+    }
+  ]
+}
